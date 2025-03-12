@@ -1,4 +1,4 @@
-void main() {
+ void main() {
   // Schleife von 1 bis 100
   for (int i = 1; i <= 100; i++) {
     // Überprüfe die Bedingung und gib die entsprechende Ausgabe
